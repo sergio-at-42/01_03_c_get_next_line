@@ -1,0 +1,32 @@
+ABCD
+qqq
+A **************************************************************************** C
+B                                                                              D
+#                                                         :::      ::::::::    #
+#    test_file.txt                                      :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: Serge <serge.beldjaoui@learner.42.tech>    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/12/05 10:50:50 by sbeldjao          #+#    #+#              #
+#    Updated: 2025/12/05 20:41:53 by Serge            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tincidunt.
+Duis maximus finibus libero nec pretium. Nullam sit amet lobortis orci, non finibus ex. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris egestas metus eu lorem hendrerit, non facilisis ipsum iaculis.
+Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin egestas nunc nec vulputate pretium.
+Nam venenatis efficitur nulla eget sollicitudin. Fusce congue, sem sed fermentum eleifend, ante arcu commodo enim, nec ultricies magna nisi eu sapien.
+Morbi viverra convallis libero, sit amet iaculis risus ullamcorper ac. Quisque porttitor, sem vel eleifend vestibulum, sapien justo imperdiet leo, ac gravida sem mauris vitae justo. Ut dapibus iaculis sapien quis commodo.
+Ut pellentesque lobortis erat, eget efficitur massa convallis nec. Integer eleifend lacus vitae mi fermentum, a interdum orci pretium. Suspendisse aliquet at dolor quis pretium.
+Sed condimentum facilisis lacus eu tristique. Duis non ipsum lacinia, scelerisque quam nec, gravida est. Vivamus venenatis lacus sed velit pellentesque suscipit. Duis tempus tortor et eros luctus, vel congue dui euismod.
+Integer sed lectus id magna ullamcorper dapibus vel ut purus. Aenean varius placerat rutrum. Proin a orci ullamcorper, volutpat nunc sed, maximus lacus.
+Curabitur in mollis mi. Curabitur gravida aliquet urna at luctus. In nec quam sit amet dui vestibulum congue a nec lorem.
+Quisque sed eleifend odio, vel sagittis risus. Fusce hendrerit erat non enim rutrum convallis. Nulla molestie, lacus nec porta viverra, odio lacus lacinia justo, a venenatis metus dolor in est. Nullam gravida ut purus eget consequat.
+Aliquam nisl massa, suscipit nec lectus non, hendrerit ultricies mi.
+Nunc felis eros, commodo a quam posuere, feugiat ornare quam. Aenean tincidunt facilisis ante, sed porttitor risus condimentum sit amet. Nunc nisi velit, interdum quis hendrerit ultricies, ultricies non sapien.
+
+FIN
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><
